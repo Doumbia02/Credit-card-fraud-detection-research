@@ -1,0 +1,25 @@
+Model,Approach vs Baseline,Chi2-stat,p-value,Significant (α=0.05)
+Logistic Regression,Random Oversampling,1815.331,0.0,Yes
+Logistic Regression,SMOTE,466.56,0.0,Yes
+Logistic Regression,ADASYN,1268.042,0.0,Yes
+Logistic Regression,Random Undersampling,1884.717,0.0,Yes
+Logistic Regression,ENN,6.722,0.0095,Yes
+Logistic Regression,Tomek Links,1.125,0.2888,No
+Logistic Regression,Class-Weight,1777.415,0.0,Yes
+Logistic Regression,Cost-Sensitive,6.693,0.0097,Yes
+Random Forest,Random Oversampling,0.267,0.6056,No
+Random Forest,SMOTE,0.042,0.8383,No
+Random Forest,ADASYN,0.0,1.0,No
+Random Forest,Random Undersampling,2043.717,0.0,Yes
+Random Forest,ENN,0.562,0.4533,No
+Random Forest,Tomek Links,0.0,1.0,No
+Random Forest,Class-Weight,0.267,0.6056,No
+Random Forest,Cost-Sensitive,0.033,0.8551,No
+Gradient Boosting,Random Oversampling,282.251,0.0,Yes
+Gradient Boosting,SMOTE,281.32,0.0,Yes
+Gradient Boosting,ADASYN,688.899,0.0,Yes
+Gradient Boosting,Random Undersampling,2695.813,0.0,Yes
+Gradient Boosting,ENN,22.081,0.0,Yes
+Gradient Boosting,Tomek Links,0.0,1.0,No
+Gradient Boosting,Class-Weight,268.305,0.0,Yes
+Gradient Boosting,Cost-Sensitive,0.063,0.8012,No
