@@ -153,7 +153,7 @@ Performance on this dataset does not guarantee equivalent performance in a real-
 
 **YOUR NAME**
 
-GitHub: https://github.com/YOUR-USERNAME
+GitHub: https://github.com/doumbia02/
 
 ## Disclaimer
 
